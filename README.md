@@ -1,4 +1,4 @@
-# EXPERIMENT-NO--05-Distance measurement using Ultrasonic sensor
+# EXPERIMENT-NO-04-Distance measurement using Ultrasonic sensor
 
 ## AIM: 
 To measure the distance of the given obstacles using ultrasonic sensors.
